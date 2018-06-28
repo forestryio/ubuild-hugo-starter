@@ -1,0 +1,3 @@
+[submodule "themes/ubuild-hugo"]
+	path = themes/ubuild-hugo
+	url = git@github.com:forestryio/ubuild-hugo.git
