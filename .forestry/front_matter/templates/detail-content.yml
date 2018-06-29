@@ -9,3 +9,5 @@ fields:
   default: text-1
 - type: include
   template: text-column
+  name: text_column
+  label: Text Column

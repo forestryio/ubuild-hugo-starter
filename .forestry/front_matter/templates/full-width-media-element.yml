@@ -9,3 +9,5 @@ fields:
   default: media-1
 - type: include
   template: media-element
+  name: media_element
+  label: Media Element
